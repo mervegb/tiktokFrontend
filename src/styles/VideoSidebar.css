@@ -1,0 +1,13 @@
+/* because it's parent is relative they will stick to the video */
+.videoSidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: white;
+}
+
+.videoSidebar_button {
+  padding: 20px;
+  /* it will center the text */
+  text-align: center;
+}
